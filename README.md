@@ -2,17 +2,17 @@
 
 Paginated Contact List App
 
+## 🎥 Video Demo
+<img src="screenshots/demo.gif" width="300">
+
+<br>
+
 ## 📸 Screenshots
 | Customer List | Infinite Loading | Pull to Refresh |
 |------|-------|-------|
 |<img src="screenshots/1.png" width="300">|<img src="screenshots/2.png" width="300">|<img src="screenshots/3.png" width="300">|
 | App Bar Search | Skeleton Loader | Search Error Page |
 |<img src="screenshots/4.png" width="300">|<img src="screenshots/5.png" width="300">|<img src="screenshots/6.png" width="300">|
-
-<br>
-
-## 🎥 Video Demo
-<img src="screenshots/demo.gif" width="300">
 
 <br>
 
